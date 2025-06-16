@@ -1,6 +1,4 @@
-"#My Git Practice (Main Update)"
-Bye
-
+" Updated main's README.md file"
 --------------------------------------------------------------------------------
 
 Microsoft Windows [Version 10.0.22631.5413]
