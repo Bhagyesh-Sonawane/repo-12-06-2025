@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 " Updated main's README.md file"
 --------------------------------------------------------------------------------
 
@@ -135,3 +136,6 @@ To https://github.com/Bhagyesh-Sonawane/repo-12-06-2025.git
    566cc6a..dfa167d  main -> main
 
 C:\Users\SBUP\BS\repo-12-06-2025>
+=======
+"feature-update file's README.md updated"
+>>>>>>> origin/feature-update
